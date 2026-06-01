@@ -1,1 +1,1 @@
-# AI-Language-Model-Learning-ver.two
+# AI-Language-Model-Learning
